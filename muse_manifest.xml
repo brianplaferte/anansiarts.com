@@ -1,0 +1,85 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.anansiarts.com" resolutions="1x" timestamp="1470852774190">
+  <folder name="css">
+    <file name="site_global.css" crc="4094608155"/>
+    <file name="master_a-master.css" crc="3784986787" ref="anansiarts.com---model-artist:anansiarts.com---studio:anansiarts.com---silk:anasiarts.com---glass:anansiarts.com---woodworks:anansiarts.com---performance-art:index:anansiarts.com---contact-info"/>
+    <file name="anansiarts_com---model-artist.css" crc="350913843" ref="anansiarts.com---model-artist"/>
+    <file name="anansiarts_com---studio.css" crc="391910705" ref="anansiarts.com---studio"/>
+    <file name="anansiarts_com---silk.css" crc="333442981" ref="anansiarts.com---silk"/>
+    <file name="anasiarts_com---glass.css" crc="210348140" ref="anasiarts.com---glass"/>
+    <file name="anansiarts_com---woodworks.css" crc="509101386" ref="anansiarts.com---woodworks"/>
+    <file name="anansiarts_com---performance-art.css" crc="4287526852" ref="anansiarts.com---performance-art"/>
+    <file name="index.css" crc="4185967057" ref="index"/>
+    <file name="anansiarts_com---contact-info.css" crc="4249900738" ref="anansiarts.com---contact-info"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="museutils.js" crc="3851988764" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="whatinput.js" crc="86476730" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="require.js" crc="4108833657" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+  </folder>
+  <folder name="images">
+    <file name="eye_10_25.png" crc="3926515681" seo="true" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u176.png" crc="4227029559" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u176-r.png" crc="186688038" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u188.png" crc="3775270035" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u188-r.png" crc="3862817851" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u230.png" crc="3823129938" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u230-r.png" crc="4070869415" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u182.png" crc="39136021" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u182-r.png" crc="4094649444" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u194.png" crc="457263271" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u194-r.png" crc="520562954" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u206.png" crc="4251525806" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u206-r.png" crc="80707022" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u212.png" crc="4130121969" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u212-r.png" crc="3819047119" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u912.png" crc="4264496224" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u912-r.png" crc="3831364608" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u924.png" crc="448953308" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="u924-r.png" crc="3956365589" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="anansi_logo_25.png" crc="365698918" seo="true" ref="index"/>
+    <file name="background_25.jpg" crc="3844757698" ref="index:anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="anansi_logo_small_25.png" crc="31279704" seo="true" ref="anasiarts.com---glass:anansiarts.com---performance-art:anansiarts.com---woodworks:anansiarts.com---silk:anansiarts.com---studio:anansiarts.com---model-artist:anansiarts.com---contact-info"/>
+    <file name="glass_openbox.png" crc="395502520" seo="true" ref="anasiarts.com---glass"/>
+    <file name="u88-8.png" crc="333862194" ref="anasiarts.com---glass"/>
+    <file name="glass_daisy.png" crc="3925077809" seo="true" ref="anasiarts.com---glass"/>
+    <file name="glass_mapleleaves.jpg" crc="4271112481" seo="true" ref="anasiarts.com---glass"/>
+    <file name="u332-6.png" crc="3931875614" ref="anasiarts.com---glass"/>
+    <file name="glass_portrait.png" crc="4116138500" seo="true" ref="anasiarts.com---glass"/>
+    <file name="performance_elizabethhunter.png" crc="11765581" seo="true" ref="anansiarts.com---performance-art"/>
+    <file name="performance_borderlands.png" crc="4019349903" seo="true" ref="anansiarts.com---performance-art"/>
+    <file name="performance_twitchy.png" crc="4118358317" seo="true" ref="anansiarts.com---performance-art"/>
+    <file name="performance_purpletop.png" crc="3899277017" seo="true" ref="anansiarts.com---performance-art"/>
+    <file name="performance_tribo.png" crc="35026147" seo="true" ref="anansiarts.com---performance-art"/>
+    <file name="u301-18.png" crc="3761807583" ref="anansiarts.com---performance-art"/>
+    <file name="u423-11.png" crc="4243161681" ref="anansiarts.com---woodworks"/>
+    <file name="woodworking_openbox.png" crc="4172585111" seo="true" ref="anansiarts.com---woodworks"/>
+    <file name="woodworking_closedbox.png" crc="3819286325" seo="true" ref="anansiarts.com---woodworks"/>
+    <file name="u436-7.png" crc="3964417263" ref="anansiarts.com---silk"/>
+    <file name="silk_materials.png" crc="247860506" seo="true" ref="anansiarts.com---silk"/>
+    <file name="silk_stretchedsilk.png" crc="220103260" seo="true" ref="anansiarts.com---silk"/>
+    <file name="silk_finishedsilk.png" crc="3781605933" seo="true" ref="anansiarts.com---silk"/>
+    <file name="studio_paintpots.png" crc="3971207" seo="true" ref="anansiarts.com---studio"/>
+    <file name="studio_studioopen.png" crc="3820133390" seo="true" ref="anansiarts.com---studio"/>
+    <file name="u485-10.png" crc="4200593220" ref="anansiarts.com---studio"/>
+    <file name="model_starwarsbunny.png" crc="527457857" seo="true" ref="anansiarts.com---model-artist"/>
+    <file name="model_zanya.png" crc="4067433914" seo="true" ref="anansiarts.com---model-artist"/>
+    <file name="model_frostdrag.png" crc="4030029301" seo="true" ref="anansiarts.com---model-artist"/>
+    <file name="model_tauntaun.png" crc="4116134220" seo="true" ref="anansiarts.com---model-artist"/>
+    <file name="model_ponyonly.png" crc="176222794" seo="true" ref="anansiarts.com---model-artist"/>
+    <file name="u613-9.png" crc="4045499472" ref="anansiarts.com---model-artist"/>
+    <file name="model_leia.png" crc="4050667593" seo="true" ref="anansiarts.com---model-artist"/>
+    <file name="u893-5.png" crc="73510169" ref="anansiarts.com---contact-info"/>
+  </folder>
+  <file name="index.html" crc="234954240" seo="true" mt="1445953676229" redirect="true"/>
+  <file name="anasiarts.com---glass.html" crc="125415029" seo="true" mt="1445953676229" redirect="true"/>
+  <file name="anansiarts.com---performance-art.html" crc="428251749" seo="true" mt="1445953676229" redirect="true"/>
+  <file name="anansiarts.com---woodworks.html" crc="4138541722" seo="true" mt="1445953676229" redirect="true"/>
+  <file name="anansiarts.com---silk.html" crc="4121179694" seo="true" mt="1445953676229" redirect="true"/>
+  <file name="anansiarts.com---studio.html" crc="60257613" seo="true" mt="1445953676229" redirect="true"/>
+  <file name="anansiarts.com---model-artist.html" crc="250778337" seo="true" mt="1445953676229" redirect="true"/>
+  <file name="anansiarts.com---contact-info.html" crc="3908399122" seo="true" mt="1445953676229" redirect="true"/>
+</manifest>
